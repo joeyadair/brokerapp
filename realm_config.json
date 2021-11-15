@@ -1,0 +1,7 @@
+{
+    "app_id": "brokerapp-tvbkf",
+    "config_version": 20210101,
+    "name": "BrokerApp",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL"
+}
